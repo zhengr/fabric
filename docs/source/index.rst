@@ -7,6 +7,8 @@ flexibility and scalability.  It is designed to support pluggable implementation
 of different components, and accommodate the complexity and intricacies that exist
 across the economic ecosystem.
 
+超级账簿Fabric是一个分布式账簿解决方案的平台，支持通过一个模块化的架构，提供高度的机密性，弹性，灵活性和可伸缩性。它的设计目的是实现支持可插拔不同的组件，并适应存在的复杂性和复杂性在经济生态系统。
+
 Hyperledger Fabric delivers a uniquely elastic and extensible architecture,
 distinguishing it from alternative blockchain solutions. Planning for the
 future of enterprise blockchain requires building on top of a fully-vetted,
